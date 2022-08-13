@@ -1,0 +1,19 @@
+<h1>Personajes de Shingeki no Kyojin</h1>
+<mat-divider></mat-divider>
+<br>
+
+<div fxLayout="row wrap"
+      fxLayout.xs="column"
+    fxLayoutAlign="center"
+    fxLayoutGap="20px">
+  <div fxFlex="30"
+      fxFlex.lg="30"
+      fxFlex.sm="50"
+  *ngFor="let personaje of personajes">
+   <app-heroe-tarjeta [personaje]="personaje"></app-heroe-tarjeta>
+  </div>
+
+</div>
+
+
+
