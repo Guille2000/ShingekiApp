@@ -1,0 +1,130 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "personaje": "Eren Jeager",
+      "genero": "Hombre",
+      "alter_ego": "Shingeki no Kyojin",
+      "descripcion": "El chico que buscaba la libertad..."
+    },
+    {
+      "id": 2,
+      "personaje": "Mikasa Ackerman",
+      "genero": "Mujer",
+      "alter_ego": "Libertad",
+      "descripcion": "Mikasa, quien constantemente protegía a Eren..."
+    },
+    {
+      "id": 3,
+      "personaje": "Armin Arlet",
+      "genero": "Hombre",
+      "alter_ego": "Titan Colosal",
+      "descripcion": "Fiel amigo de Eren y Mikasa. Eran inseparables."
+    },
+    {
+      "id": 4,
+      "personaje": "Sasha Blouse",
+      "genero": "Mujer",
+      "alter_ego": "La chica patata",
+      "descripcion": "Una chica muy valiente que enfrentó a un titan con arco y flecha."
+    },
+    {
+      "id": 5,
+      "personaje": "Connie Springer",
+      "genero": "Hombre",
+      "alter_ego": "El que no piensa",
+      "descripcion": "Fiel amigo de Sasha. Eventualmente desarrolla una amistad con Jean."
+    },
+    {
+      "id": 6,
+      "personaje": "Jean Kirschtein",
+      "genero": "Hombre",
+      "alter_ego": "Cara de caballo",
+      "descripcion": "El personaje que envidiaba a Eren."
+    },
+    {
+      "id": 7,
+      "personaje": "Levi Ackerman",
+      "genero": "Hombre",
+      "alter_ego": "Enano",
+      "descripcion": "El mas OP de todos. Comparte sangre con Mikasa."
+    },
+    {
+      "id": 8,
+      "personaje": "Hange Zoe",
+      "genero": "Mujer",
+      "alter_ego": "Loca de los titanes",
+      "descripcion": "Ama a los titanes y el misterio tras ellos."
+    },
+    {
+      "id": 9,
+      "personaje": "Erwin Smith",
+      "genero": "Hombre",
+      "alter_ego": "Lider de la legion",
+      "descripcion": "Un lider que pone sus deseos por delante de la humanidad"
+    },
+    {
+      "id": 10,
+      "personaje": "Zeke Jeager",
+      "genero": "Hombre",
+      "alter_ego": "Titan Bestia",
+      "descripcion": "Rival (hijo) de Levi. Confia plenamente en Eren."
+    },
+    {
+      "id": 11,
+      "personaje": "Reiner Braun",
+      "genero": "Hombre",
+      "alter_ego": "Depresion",
+      "descripcion": "Todo lo que hizo lo llevó a desarrollar un deseo por no existir."
+    },
+    {
+      "id": 12,
+      "personaje": "Annie Leonhart",
+      "genero": "Mujer",
+      "alter_ego": "Titan femenino",
+      "descripcion": "Hara todo lo posible para volver con su padre."
+    },
+    {
+      "id": 13,
+      "personaje": "Bertolt Hoover",
+      "genero": "Hombre",
+      "alter_ego": "Titan Colosal",
+      "descripcion": "Mejor amigo de Reiner. Le gustaba Annie."
+    },
+    {
+      "id": 14,
+      "personaje": "Gabi Braun",
+      "genero": "Mujer",
+      "alter_ego": "La niña fascista",
+      "descripcion": "Odia a los eldianos. Fue criada para eso, sin embargo.."
+    },
+    {
+      "id": 15,
+      "personaje": "Falco Grice",
+      "genero": "Hombre",
+      "alter_ego": "Niño muy bueno",
+      "descripcion": "Admira a Eren Kruger. Es traicionado por él."
+    },
+    {
+      "id": 16,
+      "personaje": "Historia Reiss",
+      "genero": "Mujer",
+      "alter_ego": "Diosa",
+      "descripcion": "Desarrolla una relacion con Ymir y se lleva muy bien con Eren."
+    },
+    {
+      "id": 17,
+      "personaje": "Ymir",
+      "genero": "Mujer",
+      "alter_ego": "Titan fea",
+      "descripcion": "Quería casarse con Historia."
+    },
+    {
+      "id": 18,
+      "personaje": "Ymir Fritz",
+      "genero": "Mujer",
+      "alter_ego": "Esclava",
+      "descripcion": "Estuvo esperando 2000 años, por alguien..."
+    }
+  ]
+}
